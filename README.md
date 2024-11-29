@@ -40,7 +40,7 @@ npm run dev
 ```
 
 # Folder Structure
-
+```
 Demo-Habot/
 ├── public/
 │   ├── index.html
@@ -53,7 +53,7 @@ Demo-Habot/
 │   └── assets/        # Static assets like images
 ├── package.json       # Project configuration and dependencies
 └── README.md          # Project documentation
-
+```
 # Contact
 
 srivijai.sekar@gmail.com
