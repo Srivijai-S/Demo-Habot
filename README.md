@@ -1,4 +1,7 @@
 # HABOT - Supplier Matching Platform
+
+![image](https://github.com/user-attachments/assets/e93604f6-d754-46cc-8e97-cf8ce4418c69)
+
 HABOT is a web platform designed to connect buyers with suppliers, creating seamless opportunities for matching services and products. This project features a clean and responsive user interface built with React and CSS, allowing users to explore supplier options or post their requirements.
 # Features
 <li>Search Functionality: Buyers and suppliers can search for services or locations.</li>
